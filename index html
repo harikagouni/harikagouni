@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLAG</title>
+    <style>
+        .shyamsingaroy{
+            border: solid yellow 4px;
+            height:600px;
+            width:100%;
+        }
+        #nani{
+            background-color: orange;
+            height:200px;
+        }
+        #saipallavi{
+            background-color: white;
+            height:200px;
+        }
+        #kritishetty{
+            background-color: green;
+            height:200px;
+        }
+        .ashoka
+        {
+            position:absolute;
+            left:40%
+        }
+    </style>
+</head>
+<body>
+  <div class="shyamsingaroy">
+  <div id="nani"></div>
+  <div id="saipallavi"><img src="ashoka.jpg"  class="ashoka" width="14%"></div>
+  <div id="kritishetty"></div>
+  </div>
+</body>
+</html>
